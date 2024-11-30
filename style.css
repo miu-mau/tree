@@ -68,12 +68,12 @@ body {
     position: relative;
 }
 .ph-1{
-    background-image: url('photo/second/3.JPG');
+    background-image: url('photo/second/3.jpg');
     width: 35em;
     height: 20em;
 }
 .ph-2{
-    background-image: url('photo/second/9.JPG');
+    background-image: url('photo/second/9.jpg');
     width: 53em;
     height: 35em;
     margin-top: 20px;

@@ -32,7 +32,7 @@ Slider.init(document.querySelector('.block'));
 
 document.addEventListener('DOMContentLoaded', () => {
   const block = document.querySelector('.ph-1'); 
-  const originalImageUrl = 'photo/second/3.JPG'; 
+  const originalImageUrl = 'photo/second/3.jpg'; 
   const newImageUrl = 'photo/second/2.jpg'; 
 
 
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
   const block = document.querySelector('.ph-5'); 
   const originalImageUrl = 'photo/second/11.jpg' ; 
-  const newImageUrl = 'photo/second/14.JPG'; 
+  const newImageUrl = 'photo/second/14.jpg'; 
 
   block.style.backgroundImage = `url('${originalImageUrl}')`;
 
